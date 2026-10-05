@@ -1,1 +1,0 @@
-- [IntenseKyi](https://github.com/IntenseKyi/practicas-ISE)
